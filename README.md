@@ -56,7 +56,11 @@ Este projeto é um sistema bancário desenvolvido em Java 17 que utiliza threads
 Sinta-se à vontade para fazer contribuições, correções e melhorias. Para contribuir, por favor, siga os seguintes passos:
 
 1.Faça um fork deste repositório.
+
 2.Crie uma nova branch (git checkout -b minha-branch).
+
 3.Faça suas alterações e faça um commit (git commit -am 'Adicionei uma nova funcionalidade').
+
 4.Envie suas alterações para o repositório remoto (git push origin minha-branch).
+
 5.Abra um Pull Request.
